@@ -1,2 +1,2 @@
 # leaf-classification-model
-leaf image classification model . 96 mod
+leaf image classification model . model accurecy 96.
